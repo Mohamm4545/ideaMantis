@@ -1,3 +1,4 @@
+![20240904_153638](https://github.com/user-attachments/assets/53058c1e-5c60-4aee-8c0c-0f2612c22491)
 # ideaMantis
 ![Logo](https://raw.githubusercontent.com/domjos1994/ideaMantis/master/resources/de/domjos/ideaMantis/images/icon.png "Logo") IntelliJ Idea Plugin to create, edit and delete Issues from Mantis BugTracker!
 
